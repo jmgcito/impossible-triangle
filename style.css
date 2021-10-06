@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400&family=Yanone+Kaffeesatz:wght@300;400;500&display=swap');
+body{
+  background-color: black;
+}
+
+h1{
+  text-align: center;
+  color: white;
+  font-size: 80px;
+  font-family: Roboto;
+}
+.paragraph{
+  text-align: center;
+  color: white;
+  font-size: 65px;
+  font-weight: 300;
+  margin-top: 15px;
+  font-family: 'Yanone Kaffeesatz';
+}
+.subtext{
+  font-size: 30px;
+  margin-top: -50px;
+}
+#triangle-div{
+  display: flex;
+  justify-content: center;
+}
+
+#my-link{
+  display: flex;
+  justify-content: center;
+  color: #26BED8;
+  font-size: 30px;
+  font-weight: 400;
+  font-family: Roboto;
+  text-decoration: none;
+  position: relative;
+  top: 100px;
+}
