@@ -10,9 +10,7 @@ let angleX = -32.2, angleY = -45; angleZ = -1.5;
 
 function draw() {
   background('#26BED8')
-  let diameter = 10;
-  
-
+ 
   //orbitControl();
   let b=35, w=25, h=200;
   
